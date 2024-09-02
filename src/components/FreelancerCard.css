@@ -1,0 +1,37 @@
+.freelancer-card {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .freelancer-header {
+    margin-bottom: 1rem;
+  }
+  
+  .freelancer-name {
+    color: #004d40;
+    margin-top: 0;
+  }
+  
+  .freelancer-skillset {
+    font-style: italic;
+    color: #00796b;
+  }
+  
+  .freelancer-body {
+    color: #333;
+  }
+  
+  .freelancer-experience,
+  .freelancer-rate {
+    margin: 0.5rem 0;
+    font-weight: bold;
+  }
+  
+  .freelancer-rate {
+    color: #00796b;
+  }
+  

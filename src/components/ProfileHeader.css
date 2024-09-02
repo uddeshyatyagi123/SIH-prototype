@@ -1,0 +1,16 @@
+.profile-header {
+  background-color: #004d40;
+  color: white;
+  padding: 1rem;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.profile-header h2 {
+  margin: 0;
+}
+
+.profile-header p {
+  margin: 0;
+  font-style: italic;
+}

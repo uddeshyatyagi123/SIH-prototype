@@ -1,0 +1,14 @@
+.job-listings {
+    padding: 2rem;
+  }
+  
+  .job-cards {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .job-listings h1 {
+    margin-bottom: 1rem;
+  }
+  

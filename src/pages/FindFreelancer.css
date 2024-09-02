@@ -1,0 +1,22 @@
+.find-freelancers {
+    padding: 2rem;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    max-width: 800px;
+    margin: 2rem auto;
+  }
+  
+  .find-freelancers h2 {
+    color: #004d40;
+    margin-top: 0;
+  }
+  
+  .find-freelancers p {
+    color: #333;
+  }
+  
+  .freelancer-list {
+    margin-top: 1rem;
+  }
+  

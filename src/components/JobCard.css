@@ -1,0 +1,41 @@
+.job-card {
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  position: relative;
+}
+
+.job-title {
+  color: #004d40;
+  margin-top: 0;
+}
+
+.job-description,
+.job-company,
+.job-location,
+.job-budget {
+  margin: 0.5rem 0;
+}
+
+.job-budget {
+  font-weight: bold;
+}
+
+.apply-button {
+  position: absolute;
+  bottom: 1rem;
+  right: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: #00796b;
+  color: #ffffff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.apply-button:hover {
+  background-color: #004d40;
+}
